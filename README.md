@@ -50,8 +50,6 @@ https://github.com/T3Marius/T3Menu
 ```text
 addons/swiftlys2/plugins/CS2_Admin
 addons/swiftlys2/plugins/T3Menu
-addons/swiftlys2/plugins/T3MenuV1.3.0
-addons/swiftlys2/plugins/T3MenuV1.3.0-fixed
 ```
 
 Также проверьте, чтобы на сервере не осталось других копий `CS2_Admin.dll`:
